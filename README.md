@@ -7,7 +7,7 @@ Estamos construindo um site colaborativo para documentar tudo o que já fizemos 
 
 ## 👥 Equipe
 - Organização e Coordenação: Izabella Ribas Arnaldo
-- Integrantes: (Em breve atualizaremos com os nomes de todas!)
+- Integrantes: Camilly Salomão ...
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5 e CSS3
